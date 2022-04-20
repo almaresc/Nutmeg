@@ -18,7 +18,9 @@ in progress...
 # Next Changes to Portal
 
 - Improve the responsiveness
-- Improve Details Page
+- Improve Details Page -> Analisys of similar results of Teams in the low time
 - Blog with Analysis pre and post Sunday
 - Implement Leave a feedback
+- English Version
+
 
