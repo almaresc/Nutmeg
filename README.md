@@ -15,6 +15,8 @@ in progress...
  
 - General: MLOps pipeline by code
 
+- Model for GOL/NOGOL e UNDER/OVER
+
 # Next Changes to Portal
 
 - Improve the responsiveness
